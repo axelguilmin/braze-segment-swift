@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
     spec.homepage         = "https://github.com/sayalideopurkar/braze-segment-swift"
     spec.license          =  { :type => 'MIT' }
     spec.author           = { "Segment" => "friends@segment.com" }
-    spec.source           = { :git => 'git@github.com/sayalideopurkar/braze-segment-swift.git', :tag => s.version.to_s }
+    spec.source           = { :git => 'github.com/sayalideopurkar/braze-segment-swift.git'}
     spec.ios.deployment_target = '13.0'
     spec.swift_version = '5.0'
 
