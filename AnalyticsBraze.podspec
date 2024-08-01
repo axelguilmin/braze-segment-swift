@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
     spec.license          =  { :type => 'MIT' }
     spec.author           = { "Segment" => "friends@segment.com" }
     spec.source           = { :git => 'github.com/sayalideopurkar/braze-segment-swift.git'}
-    spec.ios.deployment_target = '13.0'
+    spec.ios.deployment_target = '12.0'
     spec.swift_version = '5.0'
 
     # Specify the source files
