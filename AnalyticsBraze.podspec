@@ -13,5 +13,5 @@ Pod::Spec.new do |spec|
     spec.source_files  = 'Sources/SegmentBraze/**/*'
     spec.static_framework = true
     spec.dependency 'Segment'
-    spec.dependency 'BrazeKit', '~> 9.3.1'
+    spec.dependency 'BrazeKit', '~> 10.1.0'
 end
